@@ -1,1 +1,3 @@
-console.log("You made it!!!");
+// console.log("You made it!!!");
+let message: string = "Hello, TypeScript!";
+console.log(message);
