@@ -1,6 +1,6 @@
 interface Participant {
     name: string;
-    readonly age: number;
+    age: number;
     email?: string;
     hobbies: string[];
     hasDriversLicense: boolean;
